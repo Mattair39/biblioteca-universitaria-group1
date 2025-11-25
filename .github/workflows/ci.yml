@@ -12,7 +12,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-
     steps:
       # Paso 1: Clonar el repositorio
       - name: Checkout del código
